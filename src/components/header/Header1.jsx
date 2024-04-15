@@ -175,7 +175,7 @@ function Header1() {
               </li>
               <li className={currentRoute === "/about" ? "active" : ""}>
                 <Link legacyBehavior href="/about">
-                  <a>About</a>
+                  <a>AMY</a>
                 </Link>
               </li>
               <li className="menu-item-has-children">
